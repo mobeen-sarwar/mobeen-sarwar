@@ -1,5 +1,6 @@
 # 💫 About Me:
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=mobeen-sarwar)
+
 🔭 I’m currently working in TEKHQS<br>🌱 I’m currently learning more about Elixir<br>👯 I’m looking to collaborate on Magento<br>🤝 I’m looking for help with Elixir<br>💬 Ask me about Magento and tech-related stuff.<br>⚡ Fun fact I spent my free time playing chess @ chess.com
 
 
